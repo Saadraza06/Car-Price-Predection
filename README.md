@@ -31,8 +31,7 @@ A machine learning project to estimate car prices based on multiple attributes u
 
 Aspiring data scientist passionate about machine learning and real-world problem solving.
 
-<a href="www.linkedin.com/in/muhammad-saad-raza-7a98b0286" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-raza-7a98b0286)
+
 
 
